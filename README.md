@@ -1,4 +1,4 @@
-# Proyecto Respuesta a Incidentes Informaticos
+# Proyecto Respuesta a Incidentes Informáticos
 _Conoce más de nuestros proyectos en [Peter Vargas](https://petervargas.com):_
 
 Presentación del proyecto <b>["Implementación de un equipo de respuesta a incidentes informáticos, para la identificación, recolección y/o adquisición, y conservación y/o presentación de la evidencia digital"](https://github.com/PetterVargas/Proyecto-Respuesta-a-Incidentes-Informaticos/raw/master/Presentaci%C3%B3n%20de%20Proyecto%20-%20Respuesta%20a%20Incidentes%20Inform%C3%A1ticos.docx)</b>.
